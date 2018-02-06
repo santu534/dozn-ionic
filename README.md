@@ -1,6 +1,6 @@
 # Dozn-Ionic Plugin
 
-For full information and instructions, please refer to https://dozn.io.  However, since you are already here we'll give you a quick glance at what this plugin (and dozn) does!
+For full information and instructions, please refer to http://webjunto.com/dozn/.  However, since you are already here we'll give you a quick glance at what this plugin (and dozn) does!
 
 ## At a Glance
 
@@ -18,7 +18,7 @@ This allows us to present your tests to you in a way you'll understand, instead 
 
 ## Instructions
 
-* Sign up for an account at https://dozn.io to get your API Key
+* Sign up for an account at http://webjunto.com/dozn/ to get your API Key
 * In your app, 
   * ```npm install @webjunto/dozn-ionic --save-dev```
 * In your app.module.ts, 
@@ -42,6 +42,6 @@ This allows us to present your tests to you in a way you'll understand, instead 
 
 ## Disclaimers
 
-Read our Privacy Policy and Terms of service on https://dozn.io and you'll find that it's a very user protective policy!
+Read our Privacy Policy and Terms of service on http://webjunto.com/dozn/ and you'll find that it's a very user protective policy!
 
 **IMPORTANT**:  Remember, Dozn is for DEVELOPMENT BUILDS ONLY.  Dozn captures your tester data for testing purposes. Do NOT under any circumstances use Dozn for production builds.
